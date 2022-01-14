@@ -2626,7 +2626,7 @@ figcaption {
 
 .form-field.email {
   padding-left: 52px;
-  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/606421699f78709a207218d0_Vector-2.svg");
+  background-image: url("/assets/svg/606421699f78709a207218d0_Vector-2.svg");
   background-position: 4% 50%;
   background-size: 18px 18px;
   background-repeat: no-repeat;
@@ -2657,7 +2657,7 @@ figcaption {
   padding-left: 53px;
   border: 1px none #000;
   background-color: #f2f6f7;
-  background-image: url("https://assets.website-files.com/5fef5619b640934b33c2385e/60642169c28d21d6831de16d_Vector.svg");
+  background-image: url("/assets/svg/60642169c28d21d6831de16d_Vector.svg");
   background-position: 4% 50%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -4505,210 +4505,210 @@ figcaption {
 }
 @font-face {
   font-family: 'Thicccboi';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebea92fcdbfe23d8d3ff_THICCCBOI-Black.ttf') format('truetype');
+  src: url('/assets/fonts/5fefebea92fcdbfe23d8d3ff_THICCCBOI-Black.ttf') format('truetype');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Thicccboi';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebeab640930cdfc3b7af_THICCCBOI-Light.ttf') format('truetype');
+  src: url('/assets/fonts/5fefebeab640930cdfc3b7af_THICCCBOI-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Thicccboi';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebea47d2825edf034b72_THICCCBOI-Regular.ttf') format('truetype');
+  src: url('/assets/fonts/5fefebea47d2825edf034b72_THICCCBOI-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Thicccboi';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebeaf528ec3143831121_THICCCBOI-Medium.ttf') format('truetype');
+  src: url('/assets/fonts/5fefebeaf528ec3143831121_THICCCBOI-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Thicccboi';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebead4857636a853b4ba_THICCCBOI-ExtraBold.ttf') format('truetype'), url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebea1b580041c2f6bdeb_THICCCBOI-Bold.ttf') format('truetype');
+  src: url('/assets/fonts/5fefebead4857636a853b4ba_THICCCBOI-ExtraBold.ttf') format('truetype'), url('/assets/fonts/5fefebea1b580041c2f6bdeb_THICCCBOI-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Thicccboi';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebebe7b951c967a6f012_THICCCBOI-SemiBold.ttf') format('truetype');
+  src: url('/assets/fonts/5fefebebe7b951c967a6f012_THICCCBOI-SemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Thicccboi thicccaf';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebebb640931844c3b7b5_THICCCBOI-ThicccAF.ttf') format('truetype');
+  src: url('/assets/fonts/5fefebebb640931844c3b7b5_THICCCBOI-ThicccAF.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Thicccboi';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefebebd48576170a53b4bb_THICCCBOI-Thin.ttf') format('truetype');
+  src: url('/assets/fonts/5fefebebd48576170a53b4bb_THICCCBOI-Thin.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartadisplay';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2b51352b01a3f07d6c_PlusJakartaDisplay-Bold.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2b51352b01a3f07d6c_PlusJakartaDisplay-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartadisplay';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2ba081fc7b98830f57_PlusJakartaDisplay-Italic.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2ba081fc7b98830f57_PlusJakartaDisplay-Italic.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartadisplay';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2b01923ac46af8d9fa_PlusJakartaDisplay-MediumItalic.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2b01923ac46af8d9fa_PlusJakartaDisplay-MediumItalic.ttf') format('truetype');
   font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartadisplay';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2b3d8f862ba6f9e015_PlusJakartaDisplay-Regular.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2b3d8f862ba6f9e015_PlusJakartaDisplay-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartadisplay';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2bb7e494bef790bc4c_PlusJakartaDisplay-Medium.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2bb7e494bef790bc4c_PlusJakartaDisplay-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartatext';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2b62a3b151d413883f_PlusJakartaText-Italic.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2b62a3b151d413883f_PlusJakartaText-Italic.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartadisplay';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2b973b9b027d22c1f1_PlusJakartaDisplay-Light.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2b973b9b027d22c1f1_PlusJakartaDisplay-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartadisplay';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2b74e94db20f84fd91_PlusJakartaDisplay-LightItalic.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2b74e94db20f84fd91_PlusJakartaDisplay-LightItalic.ttf') format('truetype');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartatext';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2cd91ad303ce05008d_PlusJakartaText-Light.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2cd91ad303ce05008d_PlusJakartaText-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartatext';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2c62a3b11004138840_PlusJakartaText-Bold.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2c62a3b11004138840_PlusJakartaText-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartadisplay';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2d01bdfacab2ab892d_PlusJakartaDisplay-BoldItalic.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2d01bdfacab2ab892d_PlusJakartaDisplay-BoldItalic.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartatext';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2c4ac67853285f388e_PlusJakartaText-BoldItalic.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2c4ac67853285f388e_PlusJakartaText-BoldItalic.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartatext';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2cea5148cc16a86834_PlusJakartaText-Regular.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2cea5148cc16a86834_PlusJakartaText-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Plusjakartatext';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec2c6e81462d29c94efe_PlusJakartaText-LightItalic.ttf') format('truetype');
+  src: url('/assets/fonts/5fefec2c6e81462d29c94efe_PlusJakartaText-LightItalic.ttf') format('truetype');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gilroy';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0d559a42168ca5cd29_gilroy-light.otf') format('opentype');
+  src: url('/assets/fonts/5fefec0d559a42168ca5cd29_gilroy-light.otf') format('opentype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gilroy';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0d518c5110cedd86ef_gilroy-black.otf') format('opentype');
+  src: url('/assets/fonts/5fefec0d518c5110cedd86ef_gilroy-black.otf') format('opentype');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gilroy';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0d493e9356207ffc47_gilroy-extrabold.otf') format('opentype'), url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0d10dfc578b7b1329a_gilroy-bold.otf') format('opentype');
+  src: url('/assets/fonts/5fefec0d493e9356207ffc47_gilroy-extrabold.otf') format('opentype'), url('/assets/fonts/5fefec0d10dfc578b7b1329a_gilroy-bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gilroy';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0dcfa4cbf26cfd09c2_gilroy-ultralight.otf') format('opentype');
+  src: url('/assets/fonts/5fefec0dcfa4cbf26cfd09c2_gilroy-ultralight.otf') format('opentype');
   font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gilroy';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0d1b58008ab7f6be52_gilroy-medium.otf') format('opentype');
+  src: url('/assets/fonts/5fefec0d1b58008ab7f6be52_gilroy-medium.otf') format('opentype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gilroy';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0d4ac678998d5f388b_gilroy-semibold.otf') format('opentype');
+  src: url('/assets/fonts/5fefec0d4ac678998d5f388b_gilroy-semibold.otf') format('opentype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gilroy';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0d3d8f8608e3f9df9f_gilroy-regular.otf') format('opentype');
+  src: url('/assets/fonts/5fefec0d3d8f8608e3f9df9f_gilroy-regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Gilroy';
-  src: url('https://assets.website-files.com/5fef5619b640934b33c2385e/5fefec0d6e814662b8c94eb0_gilroy-thin.otf') format('opentype');
+  src: url('/assets/fonts/5fefec0d6e814662b8c94eb0_gilroy-thin.otf') format('opentype');
   font-weight: 100;
   font-style: normal;
   font-display: swap;
